@@ -38,8 +38,7 @@ I'm open to collaborations, opportunities, and discussions related to developmen
 
 Email: [ bahrudari68@gmail.com ]
 LinkedIn: [ www.linkedin.com/in/bahrudari68 ]
-Intagram: [bahrudar]
-Youtube: [ youtube/c/bahrudari ]
+Youtube: [ https://youtube.com/@BahruDari ]
 Let's connect and explore exciting possibilities together!
 
 Thank you for visiting my portfolio repository. Enjoy your exploration!
