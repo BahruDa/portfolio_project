@@ -32,16 +32,16 @@ Aircraft Performance Analysis Tool: A web-based application that enables detaile
 Personal Website: My personal website, which serves as a hub for showcasing my projects, skills, and achievements.
 Feel free to explore these projects in detail by visiting their respective links.
 
-# Contact
 
 I'm open to collaborations, opportunities, and discussions related to development and aviation. If you have any inquiries or would like to get in touch, feel free to reach out to me at:
 
 # Email:
-[ bahrudari68@gmail.com ]
+bahrudari68@gmail.com
 # LinkedIn:
-[ www.linkedin.com/in/bahrudari68 ]
+www.linkedin.com/in/bahrudari68
 # Youtube:
-[ https://youtube.com/@BahruDari ]
+https://youtube.com/@BahruDari
+
 Let's connect and explore exciting possibilities together!
 
 My Portfolio Site is https://bahruda.github.io/portfolio_project/
