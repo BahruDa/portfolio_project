@@ -40,7 +40,7 @@ I'm open to collaborations, opportunities, and discussions related to developmen
 [ bahrudari68@gmail.com ]
 # LinkedIn:
 [ www.linkedin.com/in/bahrudari68 ]
-#Youtube:
+# Youtube:
 [ https://youtube.com/@BahruDari ]
 Let's connect and explore exciting possibilities together!
 
